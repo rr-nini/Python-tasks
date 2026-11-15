@@ -1,0 +1,1 @@
+#Challenge 28- Open a locally stores PDF and display its totalnumber of pages and all available document properties
