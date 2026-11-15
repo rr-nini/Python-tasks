@@ -1,0 +1,1 @@
+#Challenge 29- Extract the complete text of the first page of a PDF and save it in a separate text file
